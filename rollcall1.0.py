@@ -4,6 +4,8 @@
 ##by gh0st##
 #stay salty!##
 
+##IRC.TWISTEDNET.ORG #DEV  
+
 
 import ssl
 import irc.bot
