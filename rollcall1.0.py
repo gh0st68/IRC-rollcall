@@ -1,3 +1,10 @@
+##Roll call bot##
+##Join it to a channel and simply type !rollcall
+##It should provide a list of all nicks in the channel and send it to the channel to wake the users up!##
+##by gh0st##
+#stay salty!##
+
+
 import ssl
 import irc.bot
 import irc.connection
